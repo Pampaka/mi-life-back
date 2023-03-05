@@ -1,2 +1,2 @@
-# mi-life
+# Mi-life - backend
 Site-diary
